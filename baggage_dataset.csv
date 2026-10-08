@@ -1,0 +1,36 @@
+flight_type,processing_time,risk_level,status,delayed
+Domestic,20,Low,Checked-In,No
+Domestic,25,Low,Checked-In,No
+Domestic,30,Low,Security Check,No
+Domestic,35,Medium,Sorting,No
+Domestic,40,Medium,Sorting,Yes
+Domestic,45,Medium,Security Check,Yes
+Domestic,50,Medium,Loading,Yes
+Domestic,55,High,Sorting,Yes
+Domestic,60,High,Loading,Yes
+Domestic,65,High,Delayed,Yes
+International,30,Low,Checked-In,No
+International,35,Medium,Security Check,No
+International,40,Medium,Sorting,Yes
+International,45,Medium,Sorting,Yes
+International,50,High,Loading,Yes
+International,55,High,Loading,Yes
+International,60,High,Delayed,Yes
+International,65,High,Delayed,Yes
+International,70,High,Security Hold,Yes
+International,75,High,Misrouted,Yes
+Domestic,22,Low,Checked-In,No
+Domestic,28,Low,Security Check,No
+Domestic,32,Medium,Sorting,No
+Domestic,38,Medium,Loading,Yes
+Domestic,42,Medium,Loading,Yes
+Domestic,48,High,Loading,Yes
+Domestic,52,High,Delayed,Yes
+Domestic,58,High,Delayed,Yes
+International,25,Low,Checked-In,No
+International,32,Medium,Security Check,No
+International,38,Medium,Sorting,Yes
+International,44,Medium,Loading,Yes
+International,52,High,Loading,Yes
+International,62,High,Delayed,Yes
+International,68,High,Security Hold,Yes
